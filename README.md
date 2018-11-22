@@ -18,7 +18,7 @@ As an admin, you can
 
 view all users red-flags and interventions
 change the status of all red-flags and interventions
-Prerequisites
+# Prerequisites
 CSS
 Git
 HTML
@@ -38,14 +38,14 @@ Run the following command:
 git clone https://github.com/brio101/i-Reporter.git
 
 Then:
-cd iReporter
+cd i-Reporter
 
-Author
+# Author
 Getuba Oeke
 
-Acknowledgement
+# Acknowledgement
 Andela Kenya
 
-Bootcamp-cycle 35
+Bootcamp-cycle-35
 
 Tribeless-Team
